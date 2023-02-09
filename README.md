@@ -23,6 +23,8 @@ Launch the application
 ```
 cd SmartDesign 
 
+pip3 install -r requirements.txt
+
 python3 create_db.py
 
 python3 main.py
